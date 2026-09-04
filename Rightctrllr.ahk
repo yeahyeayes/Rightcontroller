@@ -1,6 +1,6 @@
 #Requires AutoHotkey v2.0
 
-; Right Ctrl + Number Row Shortcuts
+; Rightcontroller Copyrighted real!11!! just kidding , you can mess around with the code however you want , BUT if you plan on stealling it , atleast give some credit!
 >^1::Send("{Volume_Mute}")         ; RCtrl + 1 = Speaker Mute
 >^2::Send("{Volume_Down}")         ; RCtrl + 2 = Volume Down
 >^3::Send("{Volume_Up}")           ; RCtrl + 3 = Volume Up
