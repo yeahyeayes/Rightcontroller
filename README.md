@@ -16,4 +16,5 @@ This was originally made for me when i had a broken FN key and a broken left and
 ### 10-RightCtrl + 0 = Just ALT tabs
 ### 11-RightCtrl + - = Opens calculator
 ### 12-RightCtrl + = = Opens up quick settings
-
+### 13-RightCtrl + ; = Left arrow replacement
+### 14-RightCtrl + ' = Right arrow replacement
